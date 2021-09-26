@@ -1,0 +1,8 @@
+{
+  "vpc-provider:account=701571809635:filter.tag:Name=cdk_demo_vpc:region=ap-south-1:returnAsymmetricSubnets=true": {
+    "vpcId": "vpc-026acdc45db199255",
+    "vpcCidrBlock": "10.10.1.0/24",
+    "availabilityZones": [],
+    "subnetGroups": []
+  }
+}
